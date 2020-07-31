@@ -1,0 +1,10 @@
+1,   Jenny    , 2600.00
+2,   Michael  , 5800.00
+3,   Joseph   , 1800.00
+4,   Stephanie, 5400.00
+5,   Robert   , 3851.20
+6,   Steven   , 2744.00
+7,   Elana    , 8600.00
+8,   Albert   , 7000.00
+9,   Tyrel    , 16600.00
+10,   Rodney  , 124.00

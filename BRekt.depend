@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1596157404 source:c:\users\owner\source\repos\brekt\bankinginfo.c
+	"BankingInfo.h"
+
+1596157453 c:\users\owner\source\repos\brekt\bankinginfo.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1596157340 source:c:\users\owner\source\repos\brekt\projectcherry.c
+	"BankingInfo.h"
+
